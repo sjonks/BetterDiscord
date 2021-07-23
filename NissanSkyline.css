@@ -1,0 +1,14 @@
+/**
+* Made by sjonks
+*/
+@import url("https://DiscordStyles.github.io/DarkMatter/src/base.css");
+:root {
+--background-image: url('https://i.imgur.com/U3OFERg.jpg');
+--home-image: url('https://i.imgur.com/233d55Y.gif');
+--avatar-size: 32px;
+--accent: 31,180,164;
+--accent-alt: 29,101,134;
+--background-solid: #2430342C;
+--background-solid-dark: #1012186F;
+--background-solid-darker: #0C0E1293;
+}
